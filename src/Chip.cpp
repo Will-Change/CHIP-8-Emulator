@@ -36,7 +36,7 @@ unsigned char chip8_fontset[80] =
 Chip8::Chip8() {}
 Chip8::~Chip8() {}
 
-// Initialise and basically reset everything in a way
+// Initialise and basically reset everything in a way, i should have used a constructor instead
 void Chip8::init() {
     pc      = 0x200;    // setting our program counter to 0x200, 0x200 == 512
     //we just reset these guys
