@@ -6,7 +6,7 @@ get the roms from this place - https://github.com/dmatlack/chip8/tree/master/rom
 
 # Compiling and Running
 on xcode:
-first install sdl2 if you dont have it already (brew install sdl2), then on xcode link the binary with the libraries(nothing, in build phase just select your sdl2 framework from /usr/local/Cellar). Now that you're set up just download any rom then run the program (i'll include some public domain roms in some directory later maybe).
+first install sdl2 if you dont have it already (brew install sdl2), then on xcode link the binary with the libraries(nothing, in build phase just select your sdl2 framework from /usr/local/Cellar). Now that you're set up just download any rom, then run the program (i'll include some public domain roms in some directory later, maybe i dont know).
 
 # References
 
