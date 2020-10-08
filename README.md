@@ -11,6 +11,7 @@ first install sdl2 if you dont have it already (brew install sdl2), then on xcod
 # References
 
 https://en.wikipedia.org/wiki/CHIP-8
+
 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
  
 
